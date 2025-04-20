@@ -15,9 +15,8 @@ Here you'll find:
 
 ## 📲 Follow or connect with me:
 
-- 🌐 [GitHub](https://github.com/oxim117) – Projects, guides & open source experiments  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oxim117) – Professional background & collaborations  
-- 📸 [Instagram](https://www.instagram.com/oxim117/) – Tech, travel & urban lifestyle  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-adrian-santander-ibarra-ba196b185/) – Professional background & collaborations  
+- 📸 [Instagram](https://www.instagram.com/adrian_santander/) – Tech, travel & urban lifestyle  
 - ✍️ [Medium](https://adrian-santander.medium.com/) – More articles like this one
 
 📩 **Need help integrating PayPal or VTEX into your business or project?**  
