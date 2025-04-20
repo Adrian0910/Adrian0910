@@ -18,7 +18,7 @@ Here you'll find:
 - 🌐 [GitHub](https://github.com/oxim117) – Projects, guides & open source experiments  
 - 💼 [LinkedIn](https://www.linkedin.com/in/oxim117) – Professional background & collaborations  
 - 📸 [Instagram](https://www.instagram.com/oxim117/) – Tech, travel & urban lifestyle  
-- ✍️ [Medium](https://medium.com/@oxim117) – More articles like this one
+- ✍️ [Medium](https://adrian-santander.medium.com/) – More articles like this one
 
 📩 **Need help integrating PayPal or VTEX into your business or project?**  
 Email me at **oxim117@gmail.com** and let’s schedule a personalized consultation.
